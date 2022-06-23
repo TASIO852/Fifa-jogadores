@@ -13,3 +13,7 @@ Foi feita uma analise descritiva sobre o potencial atingido por cada um e sua na
 ``Atributos Jogadores``
 
 analise estatistica sobre os jogaores e seus atributos para comparaçao de qual eo melhor dentre eles 
+
+``Tabela dinamica``
+
+analise dos atributos dos jogadores com um formato dinamico mesclando pandas e numpy economizado linhas de codigo
