@@ -1,19 +1,20 @@
 # Fifa-jogadores
+
 Dados dos jogadores da fifa com seus atributos feito totalmente com pandas,numpy e pandasSQL
 FIFA, também conhecido como FIFA Football ou FIFA Soccer, é uma série de videojogos de futebol, lançados anualmente pela Electronic Arts sobre a chancela EA Sports
 
-``Fifa jogadores``
+`Fifa jogadores`
 
-Foi feita uma analise basica sobre os jogaores em questão 
+Foi feita uma analise basica sobre os jogaores em questão
 
-``Nacionalidade e Potencial``
+`Nacionalidade e Potencial`
 
-Foi feita uma analise descritiva sobre o potencial atingido por cada um e sua nacionalidade 
+Foi feita uma analise descritiva sobre o potencial atingido por cada um e sua nacionalidade
 
-``Atributos Jogadores``
+`Atributos Jogadores`
 
-analise estatistica sobre os jogaores e seus atributos para comparaçao de qual eo melhor dentre eles 
+analise estatistica sobre os jogaores e seus atributos para comparaçao de qual eo melhor dentre eles
 
-``Tabela dinamica``
+`Tabela dinamica`
 
 analise dos atributos dos jogadores com um formato dinamico mesclando pandas e numpy economizado linhas de codigo
